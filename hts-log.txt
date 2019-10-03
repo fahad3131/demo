@@ -1,0 +1,11 @@
+HTTrack3.49-2 launched on Thu, 03 Oct 2019 16:36:51 at https://shawon276.github.io/lendino12390/
+(winhttrack https://shawon276.github.io/lendino12390/ -O "/home/tectosecurity/Templates/web/shawon1" -Y -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 44 seconds : 13 links scanned, 12 files written (1342112 bytes overall) [875552 bytes received at 19898 bytes/sec], 834422 bytes transferred using HTTP compression in 8 files, ratio 42%, 3.2 requests per connection
+(No errors, 0 warnings, 0 messages)
